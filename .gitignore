@@ -2,6 +2,7 @@
 
 # compiled output
 /dist
+/electron-app-win32-x64
 /tmp
 /out-tsc
 
